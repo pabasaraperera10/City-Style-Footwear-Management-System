@@ -23,18 +23,18 @@ City Style Footwear Management System is a desktop application built using core 
 ## Getting Started
 
 ```bash
-# Clone the repository
+Clone the repository
 git clone https://github.com/pabasaraperera10/city-style-footwear-management-system.git
 
-# Navigate to the project directory
+Navigate to the project directory
 cd city-style-footwear-management-system
 
-# Import the database (MySQL)
-# Import the provided .sql file into your local MySQL server
+Import the database (MySQL)
+Import the provided .sql file into your local MySQL server
 
-# Configure JDBC connection details in the config/DB connection class
+Configure JDBC connection details in the config/DB connection class
 
-# Compile and run the Java application
+Compile and run the Java application
 ```
 
 ## Status
